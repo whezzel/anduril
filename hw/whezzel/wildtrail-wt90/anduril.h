@@ -9,3 +9,5 @@
 #ifdef USE_INDICATOR_LED
     #undef USE_INDICATOR_LED
 #endif
+
+#define USE_EXTRA_BATTCHECK_DIGIT
