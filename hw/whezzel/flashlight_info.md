@@ -44,5 +44,7 @@ make whezzel blf-gt
 | Lumintop  | FWAA                 | Stock                   | attiny85   | 519A 3500k de-domed   | anduril.whezzel-lumintop-fwaa.hex               |                 |
 | Lumintop  | FWAA Copper          | Stock                   | attiny85   | 519A 3500k de-domed   | anduril.whezzel-lumintop-fwaa.hex               |                 |
 | Lumintop  | GT Micro             | Stock                   | attiny85   | Osram KW CSLNM1.1     | anduril.whezzel-lumintop-gt-micro.hex           |                 |
+| Noctigon  | KR1K                 | Lume X1-c               | avr32dd20  | NTG50 5000k           | anduril.whezzel-noctigon-kr1k-lume-x1-c.hex     | loneoceans repo |
+| Noctigon  | KR3                  | Lume X1-c               | avr32dd20  | 519A 5000k de-domed   | anduril.whezzel-noctigon-kr3-lume-x1-c.hex      | loneoceans repo |
 | Noctigon  | KR4 Copper           | Lume X1                 | avr32dd20  | 519A 4000k de-domed   | anduril.whezzel-noctigon-kr4-lume-x1.hex        |                 |
 | Wildtrail | WT90                 | Stock                   | attiny85   | SBT90.2 5700k         | anduril.whezzel-wildtrail-wt90.hex              |                 |
